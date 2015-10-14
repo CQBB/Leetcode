@@ -7,7 +7,7 @@ import java.util.List;
  */
 
 
-public class ReverseLinkedList {
+public class EasyReverseLinkedList {
 
     public static ListNode  reverseList(ListNode head) {
         ListNode cur=head;
