@@ -12,7 +12,6 @@ public class PlusOne {
         int carry=1;
         ArrayList<Integer> newDigits=new ArrayList<Integer>();
 
-
         for(int i=digits.length-1;i>=0;i--)
         {
             carry+=digits[i];
