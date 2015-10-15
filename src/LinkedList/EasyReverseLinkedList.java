@@ -16,7 +16,7 @@ public class EasyReverseLinkedList {
 
         while(cur!=null)
         {
-            //move next
+            //move next, keep cur.next
             next=cur.next;
             //reverse
             cur.next=prev;
