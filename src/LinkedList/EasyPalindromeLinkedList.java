@@ -5,6 +5,10 @@ import java.util.List;
 /**
  * Created by fyang on 10/15/2015.
  */
+/*
+* 1.remember to cut the first list from second list
+* 2. compare condition is second list head node is null
+* */
 public class EasyPalindromeLinkedList {
     public static boolean isPalindrome(ListNode head) {
          //corner case
